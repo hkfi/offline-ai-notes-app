@@ -4,4 +4,4 @@ out
 .DS_Store
 *.log*
 python
-sqlite.db
+# sqlite.db
