@@ -14,3 +14,7 @@ pnpm drizzle-kit generate:sqlite
 
 pnpm dev
 ```
+
+## Demo
+
+![Demo](demo/Jul-13-2024%2021-12-50.gif)

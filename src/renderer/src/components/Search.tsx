@@ -69,7 +69,7 @@ export function Search() {
                   key={i}
                   to={`/notes/${note.id}`}
                   onClick={() => setOpen(false)}
-                  className="p-1 hover:bg-gray-200"
+                  className="p-1 hover:bg-gray-200 overflow-hidden text-ellipsis line-clamp-1"
                 >
                   <span>{note.content}</span>
                 </Link>
